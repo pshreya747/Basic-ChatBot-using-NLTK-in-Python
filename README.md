@@ -19,7 +19,7 @@
 
 ## Setup
 ### 1.Clone the repository:
-git clone https://github.com/your-username/chatbot-nltk.git
+git clone your repository
 ### 2.Install dependencies:
 pip install nltk scikit-learn
 ### 3.Run the chatbot:
